@@ -30,7 +30,6 @@ switch(operacion){
         break;
     default:
         alert("La operacion no es valida");
-        break;
 }
 
 /* clase 3: CREAR UN ALGORITMO UTILIZANDO UN CICLO
